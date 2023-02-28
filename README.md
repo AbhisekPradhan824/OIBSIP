@@ -1,1 +1,3 @@
 # OIBSIP
+Project 1(OBSIP JAVA PROGRAMMING TASK-2):Number guessing Game using java:-this is a intresting game to guess a  random number provided by the pc using Math.random command within a limited number of trails(here it is 5) according to your guessing it will show your score...
+Project 2(OBSIP JAVA PROGRAMMING TASK-3):Atm interface system using Java:- All the banks are using atm for digitalization.. in this code a person can able to do banking operation(like:moneywithfdraw,transfer,deposit,check balance of account,and transaction history)here the person first register using name ..password..etc.then login and then start operation
